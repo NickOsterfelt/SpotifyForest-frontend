@@ -29,10 +29,10 @@ The entire project cosnists of two repositories ([Frontend](https://github.com/N
  	- (instructions found [Here](https://github.com/NickOsterfelt/SpotifyForest-backend))
 
 ### User flow:
-	1. User logs in through spotify portal.
-	2. User is displayed their profile in left sidebar, current groups they are a part of in the middle section, and other user profile on left side bar
-	3. User can join groups based on searching by group name, groups that have matching artists, and groups that have matching tracks.
-	(pictures coming soon...)
+1. User logs in through spotify portal.
+2. User is displayed their profile in left sidebar, current groups they are a part of in the middle section, and other user profile on left side bar
+3. User can join groups based on searching by group name, groups that have matching artists, and groups that have matching tracks.
+(pictures coming soon...)
 
 
 
